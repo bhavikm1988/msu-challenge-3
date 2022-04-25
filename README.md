@@ -29,8 +29,6 @@ The following image demonstrates the application functionality:
 
 ## Review
 
-You are required to submit the following for review:
-
 * The URL of the deployed application - https://bhavikm1988.github.io/msu-challenge-3/ 
 
 * The URL of the GitHub repository - https://github.com/bhavikm1988/msu-challenge-3.git 
