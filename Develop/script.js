@@ -6,7 +6,7 @@ function writePassword() {
   let len = prompt("Please enter length of your password minimum 8 and maximum 128 characters");
   
   if (len < 8 || len > 128){
-    console.log("Invalid Length ")
+    console.log("Invalid Length, please enter valid length for password. ")
     return
   }
 
